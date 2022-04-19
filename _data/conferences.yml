@@ -1096,3 +1096,18 @@
   place: Cosenza, Italy
   sub: DM
   note: '<b>NOTE</b>: Industry Session Deadline: 26 May 2022'
+  
+- title: CVIP
+  year: 2022
+  full_name : 7th IAPR Internaonal Conference on COMPUTER VISION & IMAGE PROCESSING
+  id: CVIP22
+  link: https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines
+  deadline: '2022-05-15 23:59:59'
+  timezone: UTC+1
+  date: November, 04-06, 2022
+  place: Visvesvaraya Naonal Instute of Technology Nagpur, INDIA
+  sub: CV
+  note: '<b>NOTE</b>: Check the conference website for workshop'
+  
+  
+  
